@@ -6,11 +6,12 @@ In this project, we'll practice using Bootstrap and layering on our own addition
 
 ## Setup
 
- 1. Create a Cloud 9 workspace as usual.
- 1. `bin/setup`
- 1. Run Project.
- 1. Open the app in a Chrome tab.
- 1. Open `public/index.html` in the editor.
+1. Fork this repository to your own account.
+1. [Create a Cloud 9 Workspace as usual.](https://guides.firstdraft.com/getting-started-with-cloud-9.html)
+1. Run the `bin/setup` command in a Terminal.
+1. Run Project.
+1. Navigate to the homepage of the app in a Chrome tab.
+1. Open `public/index.html` in the editor.
 
 ## Suggested Steps
 
